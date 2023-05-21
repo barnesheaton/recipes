@@ -1,0 +1,32 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "seed": "node utils/seeder.js",
+    "seed-images": "node utils/imageSeeder.js"
+  },
+  "dependencies": {
+    "@nuxt/content": "1.15.0",
+    "axios": "^1.4.0",
+    "core-js": "^3.25.3",
+    "element-ui": "^2.15.10",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "nuxt": "^2.15.8",
+    "vue": "^2.7.10",
+    "vue-material-design-icons": "^5.2.0",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.12.3",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}
