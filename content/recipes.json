@@ -3,60 +3,199 @@
         "title": "Chocolate chip cookies",
         "recipe": "\n\nServings: 24 cookies\n\nPrep Time: 15 minutes\n\nCook Time: 10 minutes\n\nIngredients:\n\n- 2 1/4 cups all-purpose flour\n- 1 teaspoon baking soda\n- 1 teaspoon salt\n- 1 cup (2 sticks) butter, softened\n- 3/4 cup granulated sugar\n- 3/4 cup packed brown sugar\n- 1 teaspoon vanilla extract\n- 2 large eggs\n- 2 cups (12-oz. pkg.) semi-sweet chocolate chips\n\nInstructions:\n\n1. Preheat oven to 375°F.\n\n2. Combine flour, baking soda and salt in small bowl.\n\n3. Beat butter, granulated sugar, brown sugar and vanilla extract in large mixer bowl until creamy. Add eggs, one at a time, beating well after each addition. Gradually beat in flour mixture. Stir in chocolate chips.\n\n4. Drop by rounded tablespoon onto ungreased baking sheets.\n\n5. Bake for 9 to 11 minutes or until golden brown. Cool on baking sheets for 2 minutes; remove to wire racks to cool completely.",
         "slug": "chocolate-chip-cookies",
-        "imageURL": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxDaG9jb2xhdGUlMjBDaGlwJTIwQ29va2llc3xlbnwwfHx8fDE2ODQ2MTA3Mzh8MA&ixlib=rb-4.0.3&q=80&w=1080"
+        "imageURL": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxDaG9jb2xhdGUlMjBDaGlwJTIwQ29va2llc3xlbnwwfHx8fDE2ODQ2MTA3Mzh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+        "links": [
+            {
+                "phrase": "bowl",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Bowl</a>"
+            },
+            {
+                "phrase": "baking sheet",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Baking Sheet</a>"
+            },
+            {
+                "phrase": "baking sheets",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Baking Sheets</a>"
+            }
+        ]
     },
     {
         "title": "Chicken Parmesan",
         "recipe": "\n\nServings: 4\n\nPrep Time: 15 minutes\n\nCook Time: 25 minutes\n\nIngredients:\n\n-4 boneless, skinless chicken breasts\n\n-1 cup Italian-style breadcrumbs\n\n-1/2 cup grated Parmesan cheese\n\n-1 teaspoon garlic powder\n\n-1 teaspoon dried oregano\n\n-1/2 teaspoon salt\n\n-1/4 teaspoon black pepper\n\n-2 eggs, beaten\n\n-1/4 cup olive oil\n\n-1/2 cup marinara sauce\n\n-1/2 cup shredded mozzarella cheese\n\nInstructions:\n\n1. Preheat oven to 375 degrees F.\n\n2. In a shallow bowl, combine breadcrumbs, Parmesan cheese, garlic powder, oregano, salt, and pepper.\n\n3. In a separate shallow bowl, beat eggs.\n\n4. Dip chicken breasts in egg mixture, then coat with breadcrumb mixture.\n\n5. Heat olive oil in a large skillet over medium-high heat.\n\n6. Add chicken breasts and cook for 3-4 minutes per side, or until golden brown.\n\n7. Place chicken breasts in a baking dish.\n\n8. Top with marinara sauce and mozzarella cheese.\n\n9. Bake for 20-25 minutes, or until chicken is cooked through and cheese is melted and bubbly.\n\n10. Serve with your favorite sides and enjoy!",
         "slug": "chicken-parmesan",
-        "imageURL": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxDaGlja2VuJTIwUGFybWVzYW58ZW58MHx8fHwxNjg0NjExMDI3fDA&ixlib=rb-4.0.3&q=80&w=1080"
+        "imageURL": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxDaGlja2VuJTIwUGFybWVzYW58ZW58MHx8fHwxNjg0NjExMDI3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+        "links": [
+            {
+                "phrase": "skillet",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cuisinart-622-30G-Classic-Nonstick-Hard-Anodized/dp/B0078P9D8K/ref=sr_1_4?keywords=large%252Bskillet&amp;sr=8-4&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=159a1ab4d1639176bb3b433ead13ac52&camp=1789&creative=9325'>Skillet</a>"
+            },
+            {
+                "phrase": "bowl",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Bowl</a>"
+            }
+        ]
     },
     {
         "title": "Guacamole",
         "recipe": "\n\nGuacamole\n\nServings: 4\n\nPrep Time: 10 minutes\n\nCook Time: 0 minutes\n\nIngredients:\n\n-3 ripe avocados\n-1 lime, juiced\n-1 teaspoon salt\n-1/2 cup diced onion\n-3 tablespoons chopped fresh cilantro\n-2 Roma tomatoes, diced\n-1 teaspoon minced garlic\n-1 pinch ground cayenne pepper (optional)\n\nInstructions:\n\n1. Cut avocados in half. Remove seed. Scoop out avocado from the peel, into a medium bowl.\n\n2. Mash the avocado with a fork.\n\n3. Add the lime juice, salt, onion, cilantro, tomatoes, garlic, and cayenne pepper (if using). Mix together.\n\n4. Serve immediately, or cover and refrigerate until ready to serve. Enjoy!",
         "slug": "guacamole",
-        "imageURL": "https://images.unsplash.com/photo-1595016111459-799a195e7452?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxHdWFjYW1vbGV8ZW58MHx8fHwxNjg0NjExMDI3fDA&ixlib=rb-4.0.3&q=80&w=1080"
+        "imageURL": "https://images.unsplash.com/photo-1595016111459-799a195e7452?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxHdWFjYW1vbGV8ZW58MHx8fHwxNjg0NjExMDI3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+        "links": [
+            {
+                "phrase": "bowl",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Bowl</a>"
+            }
+        ]
     },
     {
         "title": "Spaghetti Bolognese",
         "recipe": "\n\nServings: 4\n\nPrep Time: 10 minutes\n\nCook Time: 30 minutes\n\nIngredients:\n\n-1 tablespoon olive oil\n-1 onion, diced\n-2 cloves garlic, minced\n-1 pound ground beef\n-1 teaspoon dried oregano\n-1 teaspoon dried basil\n-1/2 teaspoon salt\n-1/4 teaspoon black pepper\n-1 (28-ounce) can crushed tomatoes\n-1 (6-ounce) can tomato paste\n-1/2 cup beef broth\n-1/4 cup chopped fresh parsley\n-1 pound cooked spaghetti\n\nInstructions:\n\n1. Heat the olive oil in a large skillet over medium heat. Add the onion and garlic and cook until softened, about 5 minutes.\n\n2. Add the ground beef and cook until browned, about 5 minutes.\n\n3. Add the oregano, basil, salt, and pepper and stir to combine.\n\n4. Add the crushed tomatoes, tomato paste, and beef broth and stir to combine.\n\n5. Bring the mixture to a boil, then reduce the heat to low and simmer for 15 minutes.\n\n6. Add the parsley and stir to combine.\n\n7. Serve the sauce over cooked spaghetti. Enjoy!",
         "slug": "spaghetti-bolognese",
-        "imageURL": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxTcGFnaGV0dGklMjBCb2xvZ25lc2V8ZW58MHx8fHwxNjg0NjExMDI3fDA&ixlib=rb-4.0.3&q=80&w=1080"
+        "imageURL": "https://images.unsplash.com/photo-1551892374-ecf8754cf8b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxTcGFnaGV0dGklMjBCb2xvZ25lc2V8ZW58MHx8fHwxNjg0NjExMDI3fDA&ixlib=rb-4.0.3&q=80&w=1080",
+        "links": [
+            {
+                "phrase": "skillet",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cuisinart-622-30G-Classic-Nonstick-Hard-Anodized/dp/B0078P9D8K/ref=sr_1_4?keywords=large%252Bskillet&amp;sr=8-4&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=159a1ab4d1639176bb3b433ead13ac52&camp=1789&creative=9325'>Skillet</a>"
+            }
+        ]
     },
     {
         "title": "Chicken Alfredo",
         "recipe": "\n\nServings: 4\n\nPrep Time: 10 minutes\n\nCook Time: 20 minutes\n\nIngredients:\n\n-1 lb. fettuccine\n-2 tablespoons olive oil\n-2 cloves garlic, minced\n-1 lb. boneless, skinless chicken breasts, cut into cubes\n-Salt and pepper, to taste\n-1/2 cup white wine\n-2 cups heavy cream\n-1/2 cup grated Parmesan cheese\n-2 tablespoons chopped fresh parsley\n\nInstructions:\n\n1. Bring a large pot of salted water to a boil. Add the fettuccine and cook according to package instructions. Drain and set aside.\n\n2. Heat the olive oil in a large skillet over medium-high heat. Add the garlic and chicken and season with salt and pepper. Cook until the chicken is cooked through, about 8 minutes.\n\n3. Add the white wine and cook for 1 minute.\n\n4. Add the heavy cream and bring to a simmer. Simmer for 5 minutes.\n\n5. Add the Parmesan cheese and stir until melted.\n\n6. Add the cooked fettuccine and toss to combine.\n\n7. Serve topped with fresh parsley. Enjoy!",
         "slug": "chicken-alfredo",
-        "imageURL": "https://images.unsplash.com/photo-1670508142255-f119391c4213?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxDaGlja2VuJTIwQWxmcmVkb3xlbnwwfHx8fDE2ODQ2MTEwMjd8MA&ixlib=rb-4.0.3&q=80&w=1080"
+        "imageURL": "https://images.unsplash.com/photo-1670508142255-f119391c4213?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxDaGlja2VuJTIwQWxmcmVkb3xlbnwwfHx8fDE2ODQ2MTEwMjd8MA&ixlib=rb-4.0.3&q=80&w=1080",
+        "links": [
+            {
+                "phrase": "skillet",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cuisinart-622-30G-Classic-Nonstick-Hard-Anodized/dp/B0078P9D8K/ref=sr_1_4?keywords=large%252Bskillet&amp;sr=8-4&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=159a1ab4d1639176bb3b433ead13ac52&camp=1789&creative=9325'>Skillet</a>"
+            }
+        ]
     },
     {
         "title": "Pizza Dough",
         "recipe": "\n\nPizza Dough\n\nServings: 4\nPrep Time: 10 minutes\nCook Time: 15 minutes\n\nIngredients:\n\n- 2 1/4 teaspoons active dry yeast\n- 1 teaspoon sugar\n- 1 cup warm water\n- 2 1/2 cups all-purpose flour\n- 1 teaspoon salt\n- 2 tablespoons olive oil\n\nInstructions:\n\n1. In a large bowl, combine the yeast, sugar, and warm water. Stir until the yeast is dissolved. Let the mixture sit for 5 minutes.\n\n2. Add the flour, salt, and olive oil to the bowl and mix until a dough forms.\n\n3. Turn the dough out onto a lightly floured surface and knead for 5 minutes.\n\n4. Place the dough in a lightly oiled bowl and cover with a damp cloth. Let the dough rise in a warm place for 1 hour.\n\n5. Punch down the dough and divide into 4 equal pieces. Roll each piece into a ball and let rest for 10 minutes.\n\n6. Preheat the oven to 425°F.\n\n7. Roll each ball of dough out into a thin circle. Place on a lightly greased baking sheet.\n\n8. Top with desired toppings and bake for 15 minutes, or until the crust is golden brown.",
         "slug": "pizza-dough",
-        "imageURL": "https://images.unsplash.com/photo-1607207504006-89723ee11236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxQaXp6YSUyMERvdWdofGVufDB8fHx8MTY4NDYxMTAyN3ww&ixlib=rb-4.0.3&q=80&w=1080"
+        "imageURL": "https://images.unsplash.com/photo-1607207504006-89723ee11236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxQaXp6YSUyMERvdWdofGVufDB8fHx8MTY4NDYxMTAyN3ww&ixlib=rb-4.0.3&q=80&w=1080",
+        "links": [
+            {
+                "phrase": "bowl",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Bowl</a>"
+            },
+            {
+                "phrase": "baking sheet",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Baking Sheet</a>"
+            }
+        ]
     },
     {
         "title": "Caesar Salad",
         "recipe": "\n\nCaesar Salad\n\nServings: 4\n\nPrep Time: 10 minutes\n\nCook Time: 0 minutes\n\nIngredients:\n\n- 2 heads of romaine lettuce, chopped\n\n- 1/2 cup grated Parmesan cheese\n\n- 1/2 cup croutons\n\n- 2 cloves garlic, minced\n\n- 2 tablespoons olive oil\n\n- 2 tablespoons lemon juice\n\n- 1 teaspoon Worcestershire sauce\n\n- 1/2 teaspoon Dijon mustard\n\n- 1/4 teaspoon salt\n\n- 1/4 teaspoon freshly ground black pepper\n\nInstructions:\n\n1. In a large bowl, combine the lettuce, Parmesan cheese, and croutons.\n\n2. In a small bowl, whisk together the garlic, olive oil, lemon juice, Worcestershire sauce, Dijon mustard, salt, and pepper.\n\n3. Pour the dressing over the salad and toss to combine.\n\n4. Serve immediately.",
         "slug": "caesar-salad",
-        "imageURL": "https://images.unsplash.com/photo-1512852939750-1305098529bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxDYWVzYXIlMjBTYWxhZHxlbnwwfHx8fDE2ODQ2MTEwMjh8MA&ixlib=rb-4.0.3&q=80&w=1080"
+        "imageURL": "https://images.unsplash.com/photo-1512852939750-1305098529bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxDYWVzYXIlMjBTYWxhZHxlbnwwfHx8fDE2ODQ2MTEwMjh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+        "links": [
+            {
+                "phrase": "bowl",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Bowl</a>"
+            }
+        ]
     },
     {
         "title": "Pancakes",
         "recipe": "\n\nServings: 4\n\nPrep Time: 10 minutes\n\nCook Time: 10 minutes\n\nIngredients:\n\n- 2 cups all-purpose flour\n- 2 tablespoons sugar\n- 2 teaspoons baking powder\n- 1 teaspoon baking soda\n- 1/2 teaspoon salt\n- 2 cups buttermilk\n- 2 eggs\n- 2 tablespoons butter, melted\n- Vegetable oil, for cooking\n\nInstructions:\n\n1. In a large bowl, whisk together the flour, sugar, baking powder, baking soda, and salt.\n\n2. In a separate bowl, whisk together the buttermilk, eggs, and melted butter.\n\n3. Pour the wet ingredients into the dry ingredients and whisk until just combined. Do not overmix.\n\n4. Heat a large skillet or griddle over medium heat and lightly grease with vegetable oil.\n\n5. Pour 1/4 cup of batter onto the skillet for each pancake. Cook until the edges are set and bubbles form on the surface, about 2 minutes. Flip and cook until golden brown, about 1 minute more.\n\n6. Serve with butter and syrup. Enjoy!",
         "slug": "pancakes",
-        "imageURL": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxQYW5jYWtlc3xlbnwwfHx8fDE2ODQ2MTEwMjh8MA&ixlib=rb-4.0.3&q=80&w=1080"
+        "imageURL": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxQYW5jYWtlc3xlbnwwfHx8fDE2ODQ2MTEwMjh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+        "links": [
+            {
+                "phrase": "skillet",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cuisinart-622-30G-Classic-Nonstick-Hard-Anodized/dp/B0078P9D8K/ref=sr_1_4?keywords=large%252Bskillet&amp;sr=8-4&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=159a1ab4d1639176bb3b433ead13ac52&camp=1789&creative=9325'>Skillet</a>"
+            },
+            {
+                "phrase": "bowl",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Bowl</a>"
+            }
+        ]
     },
     {
         "title": "Banana Bread",
         "recipe": "\n\nServings: 8\n\nPrep Time: 10 minutes\n\nCook Time: 1 hour\n\nIngredients:\n\n- 2 cups all-purpose flour\n- 1 teaspoon baking soda\n- 1/4 teaspoon salt\n- 1/2 cup butter, softened\n- 1 cup white sugar\n- 2 eggs\n- 1 teaspoon vanilla extract\n- 1 cup mashed ripe bananas\n- 1/2 cup chopped walnuts (optional)\n\nInstructions:\n\n1. Preheat oven to 350 degrees F (175 degrees C). Grease and flour a 9x5 inch loaf pan.\n\n2. In a medium bowl, combine flour, baking soda and salt.\n\n3. In a large bowl, cream together butter and sugar until light and fluffy. Beat in eggs one at a time, then stir in vanilla. Beat in the flour mixture alternately with the mashed bananas. Fold in walnuts if desired.\n\n4. Pour batter into prepared loaf pan.\n\n5. Bake for 60 minutes, or until a toothpick inserted into center of the loaf comes out clean. Let bread cool in pan for 10 minutes, then turn out onto a wire rack.",
         "slug": "banana-bread",
-        "imageURL": "https://images.unsplash.com/photo-1632931057819-4eefffa8e007?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxCYW5hbmElMjBCcmVhZHxlbnwwfHx8fDE2ODQ2MTEwMjh8MA&ixlib=rb-4.0.3&q=80&w=1080"
+        "imageURL": "https://images.unsplash.com/photo-1632931057819-4eefffa8e007?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxCYW5hbmElMjBCcmVhZHxlbnwwfHx8fDE2ODQ2MTEwMjh8MA&ixlib=rb-4.0.3&q=80&w=1080",
+        "links": [
+            {
+                "phrase": "bowl",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Bowl</a>"
+            }
+        ]
     },
     {
         "title": "Chicken Curry",
         "recipe": "\n\nServings: 4\n\nPrep Time: 10 minutes\n\nCook Time: 30 minutes\n\nIngredients:\n\n- 2 tablespoons vegetable oil\n\n- 1 onion, diced\n\n- 2 cloves garlic, minced\n- 1 tablespoon fresh ginger, grated\n- 2 tablespoons curry powder\n- 1 teaspoon ground cumin\n- 1 teaspoon ground coriander\n- 1 teaspoon ground turmeric\n- 1 teaspoon garam masala\n- 1/2 teaspoon cayenne pepper\n- 1 (14.5 ounce) can diced tomatoes\n- 1 (14.5 ounce) can coconut milk\n- 1 pound boneless, skinless chicken breasts, cut into cubes\n- Salt and pepper, to taste\n- 1/4 cup fresh cilantro, chopped\n\nInstructions:\n\n1. Heat the oil in a large skillet over medium heat. Add the onion and cook until softened, about 5 minutes.\n\n2. Add the garlic and ginger and cook for 1 minute.\n\n3. Add the curry powder, cumin, coriander, turmeric, garam masala, and cayenne pepper and cook for 1 minute.\n\n4. Add the tomatoes and coconut milk and bring to a simmer.\n\n5. Add the chicken and season with salt and pepper. Simmer for 15 minutes, or until the chicken is cooked through.\n\n6. Garnish with cilantro and serve.",
         "slug": "chicken-curry",
-        "imageURL": "https://images.unsplash.com/photo-1631292784640-2b24be784d5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxDaGlja2VuJTIwQ3Vycnl8ZW58MHx8fHwxNjg0NjExMDI4fDA&ixlib=rb-4.0.3&q=80&w=1080"
+        "imageURL": "https://images.unsplash.com/photo-1631292784640-2b24be784d5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxDaGlja2VuJTIwQ3Vycnl8ZW58MHx8fHwxNjg0NjExMDI4fDA&ixlib=rb-4.0.3&q=80&w=1080",
+        "links": [
+            {
+                "phrase": "skillet",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cuisinart-622-30G-Classic-Nonstick-Hard-Anodized/dp/B0078P9D8K/ref=sr_1_4?keywords=large%252Bskillet&amp;sr=8-4&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=159a1ab4d1639176bb3b433ead13ac52&camp=1789&creative=9325'>Skillet</a>"
+            }
+        ]
+    },
+    {
+        "title": "Shepards Pie",
+        "links": [
+            {
+                "phrase": "bowl",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Bowl</a>"
+            },
+            {
+                "phrase": "skillet",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cuisinart-622-30G-Classic-Nonstick-Hard-Anodized/dp/B0078P9D8K/ref=sr_1_4?keywords=large%252Bskillet&amp;sr=8-4&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=159a1ab4d1639176bb3b433ead13ac52&camp=1789&creative=9325'>Skillet</a>"
+            }
+        ],
+        "recipe": "\n\nShepherd's Pie\n\nServings: 8\n\nPrep Time: 15 minutes\n\nCook Time: 45 minutes\n\nIngredients:\n\n- 2 tablespoons olive oil\n\n- 1 large onion, diced\n\n- 2 cloves garlic, minced\n\n- 2 pounds ground beef\n\n- 2 tablespoons tomato paste\n\n- 2 tablespoons Worcestershire sauce\n\n- 2 teaspoons dried thyme\n\n- 1 teaspoon dried oregano\n\n- 1 teaspoon dried rosemary\n- 1/2 teaspoon ground black pepper\n\n- 2 cups beef broth\n\n- 2 tablespoons cornstarch\n\n- 2 cups frozen mixed vegetables\n\n- 4 cups mashed potatoes\n\n- 1/2 cup shredded cheddar cheese\n\nInstructions:\n\n1. Preheat oven to 375°F.\n\n2. Heat olive oil in a large skillet over medium-high heat. Add onion and garlic and cook until softened, about 5 minutes.\n\n3. Add ground beef and cook until browned, about 8 minutes.\n\n4. Add tomato paste, Worcestershire sauce, thyme, oregano, rosemary, and black pepper. Cook for 1 minute.\n\n5. Add beef broth and bring to a simmer.\n\n6. In a small bowl, whisk together cornstarch and 2 tablespoons of water. Add to the skillet and stir until thickened, about 2 minutes.\n\n7. Add frozen vegetables and stir to combine.\n\n8. Transfer the mixture to a 9x13-inch baking dish.\n\n9. Spread mashed potatoes over the top of the beef mixture.\n\n10. Sprinkle with cheddar cheese.\n\n11. Bake for 25 minutes, or until the cheese is melted and bubbly.\n\n12. Let cool for 10 minutes before serving. Enjoy!",
+        "slug": "shepards-pie",
+        "imageURL": "https://images.unsplash.com/photo-1601000938259-9e92002320b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxTaGVwYXJkcyUyMFBpZXxlbnwwfHx8fDE2ODQ4NzE0MjJ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+    },
+    {
+        "title": "Meatballs",
+        "category": "basics",
+        "links": [
+            {
+                "phrase": "bowl",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Bowl</a>"
+            },
+            {
+                "phrase": "baking sheet",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Baking Sheet</a>"
+            }
+        ],
+        "recipe": "\n\nIngredients:\n\n-1 lb ground beef\n-1/2 cup breadcrumbs\n-1/4 cup grated Parmesan cheese\n-1/4 cup chopped fresh parsley\n-1 egg\n-1 teaspoon garlic powder\n-1 teaspoon onion powder\n-1 teaspoon salt\n-1/2 teaspoon black pepper\n\nServings: 4\n\nPrep Time: 10 minutes\n\nCook Time: 20 minutes\n\nInstructions:\n\n1. Preheat oven to 375 degrees F.\n\n2. In a large bowl, combine the ground beef, breadcrumbs, Parmesan cheese, parsley, egg, garlic powder, onion powder, salt, and pepper.\n\n3. Mix together until all ingredients are evenly distributed.\n\n4. Form the mixture into 1-inch balls and place on a baking sheet.\n\n5. Bake for 20 minutes, or until the meatballs are cooked through.\n\n6. Serve with your favorite sauce and enjoy!",
+        "slug": "meatballs",
+        "imageURL": "https://images.unsplash.com/photo-1515516969-d4008cc6241a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxNZWF0YmFsbHN8ZW58MHx8fHwxNjg0ODcyNzg2fDA&ixlib=rb-4.0.3&q=80&w=1080"
+    },
+    {
+        "title": "German Schnitzel",
+        "category": "dinner",
+        "links": [
+            {
+                "phrase": "skillet",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cuisinart-622-30G-Classic-Nonstick-Hard-Anodized/dp/B0078P9D8K/ref=sr_1_4?keywords=large%252Bskillet&amp;sr=8-4&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=159a1ab4d1639176bb3b433ead13ac52&camp=1789&creative=9325'>Skillet</a>"
+            }
+        ],
+        "recipe": "\n\nServes: 4\n\nPrep Time: 15 minutes\n\nCook Time: 10 minutes\n\nIngredients:\n\n- 4 boneless pork cutlets, pounded to 1/4-inch thickness\n- 1/2 cup all-purpose flour\n- 2 eggs, lightly beaten\n- 1 cup breadcrumbs\n- 2 tablespoons butter\n- 2 tablespoons vegetable oil\n- Salt and pepper, to taste\n\nInstructions:\n\n1. Place the pork cutlets between two pieces of plastic wrap and pound to 1/4-inch thickness.\n\n2. Place the flour, eggs, and breadcrumbs in three separate shallow dishes.\n\n3. Dip each cutlet in the flour, then the egg, and finally the breadcrumbs.\n\n4. Heat the butter and oil in a large skillet over medium-high heat.\n\n5. Add the cutlets to the skillet and cook for 4-5 minutes per side, or until golden brown and cooked through.\n\n6. Remove from the skillet and season with salt and pepper, to taste.\n\n7. Serve warm with your favorite sides. Enjoy!",
+        "slug": "german-schnitzel",
+        "imageURL": "https://images.unsplash.com/photo-1599921841143-819065a55cc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxHZXJtYW4lMjBTY2huaXR6ZWx8ZW58MHx8fHwxNjg0ODczMDM1fDA&ixlib=rb-4.0.3&q=80&w=1080"
+    },
+    {
+        "title": "Pork Chops",
+        "category": "dinner",
+        "links": [
+            {
+                "phrase": "skillet",
+                "tag": "<a target='_blank' href='https://www.amazon.com/Cuisinart-622-30G-Classic-Nonstick-Hard-Anodized/dp/B0078P9D8K/ref=sr_1_4?keywords=large%252Bskillet&amp;sr=8-4&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=159a1ab4d1639176bb3b433ead13ac52&camp=1789&creative=9325'>Skillet</a>"
+            }
+        ],
+        "recipe": "\n\nServings: 4\n\nPrep Time: 10 minutes\n\nCook Time: 20 minutes\n\nIngredients:\n\n- 4 pork chops\n- 2 tablespoons olive oil\n- 2 cloves garlic, minced\n- 1 teaspoon dried oregano\n- 1 teaspoon dried thyme\n- Salt and pepper to taste\n\nInstructions:\n\n1. Preheat oven to 375 degrees F.\n\n2. Heat olive oil in a large skillet over medium-high heat.\n\n3. Season pork chops with garlic, oregano, thyme, salt, and pepper.\n\n4. Place pork chops in the skillet and cook for 3-4 minutes per side, or until golden brown.\n\n5. Transfer pork chops to a baking dish and bake in preheated oven for 15-20 minutes, or until cooked through.\n\n6. Serve and enjoy!",
+        "slug": "pork-chops",
+        "imageURL": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NDU1MzB8MHwxfHNlYXJjaHwxfHxQb3JrJTIwQ2hvcHN8ZW58MHx8fHwxNjg0ODczMTMxfDA&ixlib=rb-4.0.3&q=80&w=1080"
     }
 ]

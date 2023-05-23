@@ -1,9 +1,18 @@
 [
     {
-        "phrases": [
-            "skillet",
-            "pan"
-        ],
-        "tag": "<a target='_blank' href='https://www.amazon.com/Cuisinart-622-30G-Classic-Nonstick-Hard-Anodized/dp/B0078P9D8K/ref=sr_1_4?keywords=large%252Bskillet&amp;sr=8-4&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=159a1ab4d1639176bb3b433ead13ac52&camp=1789&creative=9325'>Non-stick Skillet</a>"
+        "phrase": "skillet",
+        "tag": "<a target='_blank' href='https://www.amazon.com/Cuisinart-622-30G-Classic-Nonstick-Hard-Anodized/dp/B0078P9D8K/ref=sr_1_4?keywords=large%252Bskillet&amp;sr=8-4&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=159a1ab4d1639176bb3b433ead13ac52&camp=1789&creative=9325'>Skillet</a>"
+    },
+    {
+        "phrase": "bowl",
+        "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Bowl</a>"
+    },
+    {
+        "phrase": "baking sheet",
+        "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Baking Sheet</a>"
+    },
+    {
+        "phrase": "baking sheets",
+        "tag": "<a target='_blank' href='https://www.amazon.com/Cook-Color-Mixing-Bowls-Lids/dp/B08L5DDPM2/ref=sr_1_4_sspa?keywords=mixing%252Bbowl%252Bset&amp;sr=8-4-spons&amp;smid=A1OCFGUP1AO9XZ&amp;spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFaQ1hQSUkwNlBCWjYmZW5jcnlwdGVkSWQ9QTA3NDE1MjIyNzlCSFcyTTRROU1RJmVuY3J5cHRlZEFkSWQ9QTAyNjk2OTVNMzMxMjc2NU5VR08md2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&amp;th=1&_encoding=UTF8&tag=recipereserve-20&linkCode=ur2&linkId=14bf0b7e01dba1e5efae1a108f49f1c6&camp=1789&creative=9325'>Baking Sheets</a>"
     }
 ]

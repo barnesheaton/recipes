@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Chocolate chip cookies",
+        "category": "baking"
+    },
+    {
+        "title": "Chicken Parmesan",
+        "category": "dinner"
+    },
+    {
+        "title": "Pancakes",
+        "category": "breakfast"
+    },
+    {
+        "title": "Spaghetti Bolognese",
+        "category": "dinner"
+    },
+    {
+        "title": "Chicken Alfredo",
+        "category": "dinner"
+    },
+    {
+        "title": "Guacamole",
+        "category": "appetizer"
+    },
+    {
+        "title": "Chicken Curry",
+        "category": "dinner"
+    },
+    {
+        "title": "Pizza Dough",
+        "category": "basics"
+    },
+    {
+        "title": "Banana Bread",
+        "category": "baking"
+    },
+    {
+        "title": "Caesar Salad",
+        "category": "appetizer"
+    },
+    {
+        "title": "Shepards Pie",
+        "category": "dinner"
+    },
+    {
+        "title": "Meatballs",
+        "category": "basics"
+    },
+    {
+        "title": "German Schnitzel",
+        "category": "dinner"
+    },
+    {
+        "title": "Pork Chops",
+        "category": "dinner"
+    }
+]

@@ -7,8 +7,7 @@
       <div class="flex flex-col items-center w-full">
         <p class="text-md">How to make:</p>
         <h1 class="text-4xl font-bold">{{ recipe.title }}</h1>
-        <div class="flex flex-col sm:max-w-[800px] w-[600px] mt-8 max-w-full">
-          
+        <div class="flex flex-col sm:max-w-[800px] w-[600px] mt-8 max-w-full">  
         <img class="w-full object-cover max-h-[400px]" :alt="recipe.title" v-if="recipe && recipe.imageURL" :src="recipe.imageURL" />
         <div :v-if="recipeData && recipeData.servings" class="flex w-full h-full bg-red-100 py-8 px-16 mt-8 justify-between">
           <div class="flex flex-col items-center">
@@ -32,7 +31,6 @@
     <div class="flex flex-row flex-wrap">
       <div class="flex flex-1 flex-col sm:min-w-[400px] max-w-full px-8 md:px-0">
         <div>
-
           <h1 class="text-3xl font-bold mb-4">Ingredients</h1>
           <div class="flex">
             <ul>
@@ -49,12 +47,19 @@
       <div class="flex flex-1 flex-col sm:min-w-[400px] max-w-full px-8 md:px-0">
         <h1 class="text-3xl font-bold mb-4">Directions</h1>
         <div class="flex flex-col">
-          <div class="flex flex-col mb-3" v-for="(i, index) in instructions" :key="i" :value="i">
+          <div class="flex flex-col mb-3" v-for="(step, index) in instructions" :key="`step-${index}`">
             <p class="text-rose-900 text-md font-bold">
               Step {{ index + 1 }}
             </p>
-            <p class="text-md">
-              {{ i }}
+            <section v-if="step.tag">
+              <p class="text-md">
+                <span>{{ step.start }}</span>
+                <span v-if="step.tag" v-html="step.tag" class="underline text-rose-900 hover:opacity-75"></span>
+                <span>{{ step.end }}</span>
+              </p>
+            </section>
+            <p v-else class="text-md">
+              {{ step }}
             </p>
           </div>
         </div>
@@ -137,18 +142,25 @@
       recipeData() {
         const recipeString = this.$data.recipe && this.$data.recipe.recipe
         if (recipeString && recipeString.length) {
+          const servingsIndex = recipeString.indexOf('Servings')
+          const prepIndex = recipeString.indexOf('Prep Time')
+          const cookIndex = recipeString.indexOf('Cook Time')
+          const ingredientsIndex = recipeString.indexOf('Ingredients:')
           const data = {}
-          recipeString.split('\n\n').map((item, index) => {
-            if (item.includes("Prep Time")) {
-              data.prepTime = item.slice(11)
-            }
-            if (item.includes("Servings")) {
-              data.servings = item.slice(10)
-            }
-            if (item.includes("Cook Time")) {
-              data.cookTime = item.slice(11)
-            }
-          })
+
+          if (recipeString.includes('Servings')) {
+            const servingsText = recipeString.substring(servingsIndex + 10, prepIndex)
+            data.servings = servingsText + (servingsText.length < 4 ? 'servings' : '')
+          }
+
+          if (recipeString.includes('Prep Time')) {
+            data.prepTime = recipeString.substring(prepIndex + 10, cookIndex)
+          }
+
+          if (recipeString.includes('Cook Time')) {
+            data.cookTime = recipeString.substring(cookIndex + 10, ingredientsIndex)
+          }
+
           return data
         } else {
           return {}
@@ -157,7 +169,7 @@
       ingredients() {
         const recipeString = this.$data.recipe && this.$data.recipe.recipe
         if (recipeString && recipeString.length) {
-          const recipeArray = recipeString.split('\n\n')
+          // const recipeArray = recipeString.split('\n\n')
           // console.log('recipeArray', recipeArray)
           const start = recipeString.indexOf('Ingredients:')
           const end = recipeString.indexOf('Instructions:')
@@ -171,12 +183,34 @@
       },
       instructions() {
         const recipeString = this.$data.recipe && this.$data.recipe.recipe
-        // console.log('instructions', this.$data.recipe, recipeString)
+        const hasLinks = this.$data.recipe && this.$data.recipe.links && this.$data.recipe.links.length
         if (recipeString && recipeString.length) {
           const start = recipeString.indexOf('Instructions:')
           const end = recipeString.length
           const breakpoint = /[0-9]+\./
-          return recipeString.substring(start + 17, end).split(breakpoint)
+          const instructions = recipeString.substring(start + 17, end).split(breakpoint)
+
+          if (!!hasLinks) {
+            let embeddedInstructions = []
+            instructions.map((step, index) => {
+              this.$data.recipe.links.forEach((link) => {
+                // console.log(`Checking ${step} for: ${link.phrase}`, link)
+                if (step.toLowerCase().includes(link.phrase)) {
+                  // embeddedLinkCounts[link.phrase] = 0
+                  embeddedInstructions[index] = { 
+                    start: step.substring(0, step.indexOf(link.phrase)),
+                    end: step.substring(step.indexOf(link.phrase) + link.phrase.length, step.length),
+                    tag: link.tag
+                  }
+                } else if (!embeddedInstructions[index]) {
+                  embeddedInstructions[index] = step
+                }
+              })
+            })
+            return embeddedInstructions
+          }
+
+          return instructions
         } else {
           return []
         }

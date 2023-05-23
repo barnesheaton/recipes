@@ -8,7 +8,8 @@
     "start": "nuxt start",
     "generate": "nuxt generate",
     "seed": "node utils/seeder.js",
-    "seed-images": "node utils/imageSeeder.js"
+    "seed-images": "node utils/imageSeeder.js",
+    "seed-links": "node utils/linkSeeder.js"
   },
   "dependencies": {
     "@nuxt/content": "1.15.0",
