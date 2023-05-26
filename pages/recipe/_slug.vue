@@ -79,7 +79,7 @@
             <p class="text-2xl font-semibold">{{ recipe.title }}</p>
         </div>
         <div class="w-64 h-64">
-            <img class="w-full h-full object-cover" v-if="recipe.imageURL" :src="recipe.imageURL" />
+            <img class="w-full h-full object-cover" v-if="recipe.imageURL" :src="recipe.imageURL" :alt="recipe.title" />
         </div>
       </NuxtLink>
   </div>
@@ -125,7 +125,15 @@
     head() {
       if (this.$data.recipe) {
         return {
-          title: `${this.$data.recipe.title || this.$route.params.slug} Recipe - How To Make`
+          title: `${this.$data.recipe.title || this.$route.params.slug} Recipe - How To Make`,
+          meta: [
+          // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+          {
+            hid: 'description',
+            name: 'description',
+            content: `A simple recipe to learn how to make The BEST ${this.$data.recipe.title || this.$route.params.slug}! Enjoy this delicious treat that'll keep you coming back for more!`
+          }
+        ]
         }
       }
     },
